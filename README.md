@@ -8,9 +8,9 @@
      <div>
 <img src="https://komarev.com/ghpvc/?username=bdeleon15&style=flat-square&color=blue" alt=""/>
    </div>
-     <h1>
+     <h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   Howdy howdy
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmV1aWFpOG9pZ2JqcHY1bXFwZXg5N2w4dGR2MTc0b25lcjhhd3F3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RN8jWMw5Xf1mWRMyNx/giphy.gif" width="50px"/>  
 </h1>
 </body>
 
