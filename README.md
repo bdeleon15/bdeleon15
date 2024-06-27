@@ -12,7 +12,10 @@
   Howdy howdy
    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmV1aWFpOG9pZ2JqcHY1bXFwZXg5N2w4dGR2MTc0b25lcjhhd3F3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RN8jWMw5Xf1mWRMyNx/giphy.gif" width="50px"/>  
 </h1>
-</body>
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFmZHc2cWx6eG50MDd3YW56eGRiM2YweGM5bzBjbW1tcWwzdzloMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
+</div>
+
 
 
 <!--
