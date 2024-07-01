@@ -4,7 +4,8 @@
 </div>
 <div id="badges" align="center">
    <a href="www.linkedin.com/in/blanca-de-leon-85408311b">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+   </a>
      <div>
 <img src="https://komarev.com/ghpvc/?username=bdeleon15&style=flat-square&color=blue" alt=""/>
    </div>
