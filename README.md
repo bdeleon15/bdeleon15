@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa29kcDlyNDc0NTVzdXMxdGlicTZmOTVmOHAya3E5dGU4ZjBkZ2M0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZqOGQO6ZMSqUYDHj0T/giphy.gif" width="100"/>
 <div id="badges">
-   <a href="www.linkedin.com/in/blanca-de-leon-85408311b">
+   <a href="https://www.linkedin.com/in/blanca-de-leon-85408311b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>
 <div>
