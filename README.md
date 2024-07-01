@@ -3,9 +3,9 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa29kcDlyNDc0NTVzdXMxdGlicTZmOTVmOHAya3E5dGU4ZjBkZ2M0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZqOGQO6ZMSqUYDHj0T/giphy.gif" width="100"/>
 <div id="badges">
    <a href="www.linkedin.com/in/blanca-de-leon-85408311b">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>
-     <div>
+<div>
 <img src="https://komarev.com/ghpvc/?username=bdeleon15&style=flat-square&color=blue" alt=""/>
  <h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   Howdy there, my name is Blanca!
